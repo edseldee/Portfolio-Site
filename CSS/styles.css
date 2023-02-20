@@ -1,0 +1,14 @@
+.{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family:"Poppins", sans-serif;
+}
+
+.header {
+height: 100vh;
+  background-image: url(https://raw.githubusercontent.com/KodeGo-Bootcamp/HTML-Activity-Images/f8f9497a98828da54de61a36bce3f1b7c6a80b8e/pexels-royal-anwar-450213.jpg);
+  background-size: cover;
+}
